@@ -1,0 +1,6 @@
+# Notebook stuff
+notebooks/.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# Pycache
+src/__pycache__/
